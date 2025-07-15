@@ -10,12 +10,6 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Before npm
-
-```sh
-Set-ExecutionPolicy RemoteSigned -Scope Process
-```
-
 ## Project Setup
 
 ```sh
