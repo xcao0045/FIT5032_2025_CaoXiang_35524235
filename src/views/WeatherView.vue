@@ -12,6 +12,9 @@
         <button @click="searchByCity" class="search-button">
           Search
         </button>
+        <br>
+        Search city by name
+        </br>
       </div>
     </div>
     
